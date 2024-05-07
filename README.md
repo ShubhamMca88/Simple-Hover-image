@@ -69,13 +69,7 @@
 
 # Some Screen shot
 <p>
-  <img src="app\static\img\1.png" alt="1 view">&nbsp;
+  <img src="img\SS1.png" alt="1 view">&nbsp;
+  <img src="img\SS2.png" alt="2 view">
  </p> 
 
-## Demo
-
-![Demoimg](demo.gif)
-
-## Introduction
-
-> ### _*This is a simple Blog app made with Django in Python!* <br> This has all the features that you would expect from a blog app from newsletter to a rich text editor and much more!_
