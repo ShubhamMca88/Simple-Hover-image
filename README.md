@@ -23,16 +23,14 @@
   <img src="https://img.shields.io/badge/gmail-61D?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 
-## Portfolio Website
+## Hover Image view
 
-This repository contains the code for my personal portfolio website.
+This repository contains the code for Hover image .
 
 ## Features
 
 - Responsive design
-- Portfolio showcase
-- About Me section
-- Contact form
+- Hover showcase
 
 ## Use To Technology
 
