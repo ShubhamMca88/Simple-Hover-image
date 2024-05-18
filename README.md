@@ -10,18 +10,10 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/shubham-kumar-266652237/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
-    </a>
- <a href="https://github.com/ShubhamMca88" target="_blank">
-  <img src="https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-    </a>
- <a href="https://www.instagram.com/su.g.am?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
- <a href="mailto:shubhamkumar.mca@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-61D?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
+ <a href="https://www.linkedin.com/in/shubham-kumar-266652237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://github.com/ShubhamMca88" target="_blank"><img src="https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.instagram.com/su.g.am?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="mailto:shubhamkumar.mca@outlook.com" target="_blank"><img src="https://img.shields.io/badge/outlook-61D?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
 
 ## Hover Image view
 
